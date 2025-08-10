@@ -9,7 +9,6 @@ A **reproducible** study of how CNNs and Vision Transformers behave under **dist
 > **Data:** Pulled from Kaggle via the included scripts (no large files committed to Git).
 
 ---
-
 ## Highlights
 
 -  Robustness benchmarking under common perturbations  
@@ -198,14 +197,17 @@ models/**
 
 ---
 
-## Roadmap
+## Acknowledgements
 
-- ✅ HF weights + downloader  
-- ✅ One‑shot Kaggle data scripts (PS + Bash)  
-- ☐ Pin versions into a lockfile after full local test  
-- ☐ CLI to run perturbation sweeps headless  
-- ☐ CI sanity checks for scripts/notebooks
+1. Prof. Sanghamitra Bandyopadhyay,
+   Professor, Machine Intelligence Unit
+   Director, Indian Statistical Institute, Kolkata
 
+2. Dr. Malay Bhattacharyya
+   Associate Professor, Machine Intelligence Unit
+   Indian Statistical Institute, Kolkata
+
+3. IASc-INSA-NASI Summer Research Fellowship Program 2025
 ---
 
 ## Citation
