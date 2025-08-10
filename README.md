@@ -12,10 +12,10 @@ A **reproducible** study of how CNNs and Vision Transformers behave under **dist
 
 ## Highlights
 
-- 🔁 Robustness benchmarking under common perturbations  
-- 🔎 Side‑by‑side interpretability: CAMs (CNNs) vs attention rollout (Transformers)  
-- 🧪 Reproducible notebooks (Kaggle or local)  
-- ☁️ Large artifacts hosted externally (HF + Kaggle) — clean Git repo
+-  Robustness benchmarking under common perturbations  
+-  Side‑by‑side interpretability: CAMs (CNNs) vs attention rollout (Transformers)  
+-  Reproducible notebooks (Kaggle or local)  
+-  Large artifacts hosted externally (HF + Kaggle) — clean Git repo
 
 ---
 
