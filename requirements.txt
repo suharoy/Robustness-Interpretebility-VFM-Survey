@@ -1,0 +1,26 @@
+# Core DL stack
+torch
+torchvision
+timm
+
+# Utilities
+numpy
+pillow
+matplotlib
+pandas
+scikit-learn
+opencv-python
+tqdm
+
+# Notebooks
+jupyterlab
+ipywidgets
+
+# Explainability
+grad-cam
+
+# I/O / hosting
+huggingface_hub
+
+# Dataset fetching
+kaggle
