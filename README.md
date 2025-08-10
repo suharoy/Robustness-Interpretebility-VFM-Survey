@@ -112,12 +112,12 @@ python scripts/download_models_hf.py
 
 | Model     | Dataset        | Filename                     |
 |:--        |:--             |:--                           |
-| ResNet-18 | CIFAR-10       | `resnet18_cifar10.pth`       |
-| ResNet-18 | Fashion-MNIST  | `resnet18_fashionmnist.pth`  |
-| ViT‑S/16  | CIFAR-10       | `vit_s_cifar10.pth`          |
-| ViT‑S/16  | Fashion-MNIST  | `vit_s_fashionmnist.pth`     |
-| Swin‑T    | CIFAR-10       | `swin_t_cifar10.pth`         |
-| Swin‑T    | Fashion-MNIST  | `swin_t_fashionmnist.pth`    |
+| ResNet-18 | CIFAR-10       | `resnet18-cifar10.pth`       |
+| ResNet-18 | Fashion-MNIST  | `resnet18-fashionmnist.pth`  |
+| ViT‑S/16  | CIFAR-10       | `vit-cifar10.pth`          |
+| ViT‑S/16  | Fashion-MNIST  | `vit-fashionmnist.pth`     |
+| Swin‑T    | CIFAR-10       | `swin-cifar10.pth`         |
+| Swin‑T    | Fashion-MNIST  | `swin-fashionmnist.pth`    |
 
 **Loading example (PyTorch)**
 
@@ -199,15 +199,17 @@ models/**
 
 ## Acknowledgements
 
-1. Prof. Sanghamitra Bandyopadhyay,
+1. [`Prof. Sanghamitra Bandyopadhyay`](https://www2.isical.ac.in/~sanghami/)
    Professor, Machine Intelligence Unit
    Director, Indian Statistical Institute, Kolkata
 
-2. Dr. Malay Bhattacharyya
+2. [`Dr. Malay Bhattacharyya`](https://www2.isical.ac.in/~malaybhattacharyya/)
    Associate Professor, Machine Intelligence Unit
    Indian Statistical Institute, Kolkata
 
-3. IASc-INSA-NASI Summer Research Fellowship Program 2025
+3. [`IASc-INSA-NASI Summer Research Fellowship Program 2025`](https://webjapps.ias.ac.in/fellowship2025/lists/result.jsp)
+
+4. Bioinformatics Lab, Machine Intelligence Unit, ISI Kolkata
 ---
 
 ## Citation
